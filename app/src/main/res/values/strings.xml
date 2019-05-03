@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bai2_Activity</string>
+    <!-- MainActivity-->
+    <string name="edtNameMain">Nhập họ và tên</string>
+    <string name="btnMain">Ok</string>
+    <!-- StudentActivity-->
+    <string name="edtAddressStudent">Nhập quê quán</string>
+    <string name="edtDateStudent">Nhập ngày sinh</string>
+    <string name="edtGenderStudent">Nhập giới tính</string>
+    <string name="edtClassStudent">Nhập tên lớp</string>
+    <string name="edtCourseStudent">Nhập tên khóa học</string>
+    <string name="btnStudent">Xác nhận</string>
+    <!-- StudentInforActivity-->
+    <string name="viewAddress">Quê quán: </string>
+    <string name="viewDate">Ngày sinh: </string>
+    <string name="viewGender">Giới tính: </string>
+    <string name="viewClass">Lớp: </string>
+    <string name="viewCourse">Khóa học: </string>
+</resources>
